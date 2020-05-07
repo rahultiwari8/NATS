@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Nats.omplementation</groupId>
+  <artifactId>implNats</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+
+
+	
+	<!-- https://mvnrepository.com/artifact/com.github.cloudfoundry-community/nats-client -->
+<!-- https://mvnrepository.com/artifact/com.github.cloudfoundry-community/nats-client -->
+<dependency>
+	<groupId>io.nats</groupId>
+	<artifactId>jnats</artifactId>
+	<version>0.3.1</version>
+</dependency>
+<!-- Thanks for using https://jar-download.com -->
+
+
+	
+	
+ 
+  </dependencies>
+</project>
